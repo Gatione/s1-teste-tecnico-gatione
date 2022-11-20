@@ -13,7 +13,7 @@ function App() {
       <GlobalStyle />
       <ToastContainer autoClose={2500} />
       <CentralizedComponent>
-        <FlexComponent direction="column" padding="10% 30px" gap="20px">
+        <FlexComponent direction="column" padding="25px 30px" gap="20px">
           <h2>Simule sua Antecipação</h2>
           <AnticipationCalculator />
         </FlexComponent>
